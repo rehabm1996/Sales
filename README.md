@@ -39,7 +39,7 @@ A project that talks about a Sales, products and customers .
 
 
 
-<img width="680" alt="page1" src="https://github.com/rehabm1996/Sales/assets/113944494/884eb26d-35c3-435a-9c68-4c6e91d506b3">
+<img width="676" alt="image" src="https://github.com/rehabm1996/Sales/assets/113944494/a98c50ab-8823-4a83-b34e-a9e24b66bc2f">
 
 
 ### page 2 :
