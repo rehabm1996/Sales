@@ -32,7 +32,7 @@ A project that talks about a Sales, products and customers .
 - Freight	
 - TotalDue
 
-# dashboard photo :
+# photo :
 
 ### page 1 :
 
